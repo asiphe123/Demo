@@ -9,3 +9,4 @@ console.log("enter your password");
 console.log("enter your confirm password");
 console.log("enter your gender");
 console.log("enter your date of birth");
+console.log("enter your address");
