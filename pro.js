@@ -1,2 +1,11 @@
 console.log("hello world");
 console.log("enter your name");
+console.log("enter your age");
+console.log("enter your city");
+console.log("enter your country");
+console.log("enter your email");
+console.log("enter your phone number");
+console.log("enter your password");
+console.log("enter your confirm password");
+console.log("enter your gender");
+console.log("enter your date of birth");
